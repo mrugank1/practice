@@ -1,0 +1,631 @@
+
+
+/* 
+.mini-div{
+    width:100px;
+    height: 100px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.mini-div#fst{
+    background-color: rebeccapurple;
+}
+.mini-div#snd{
+    background-color: black;
+}
+.mini-div#trd{
+    background-color: blue;
+} */
+
+/* 
+body {
+background-color: powderblue;
+}
+h1{
+    color:blue;
+}
+p{
+    color:red;
+} */
+
+/* 
+p{
+    border: 2px solid powderblue;
+    margin:50px;
+}
+ */
+
+ /* a: link {
+    color:green;
+    background-color:transperant
+    text-decoration :none
+ } */
+
+ /* a: visited {
+    color:pink;
+    background-color:transperant;
+    text-decoration:none
+ }
+
+ 
+ a: active {
+    color:red;
+    background-color:transperant;
+    text-decoration:underline;
+ }
+
+ a: active {
+    color:yellow;
+    background-color:transperant:
+    text-decoration:underline;
+ } */
+
+ /* a: hover {
+    color:red;
+    background-color:transparent;
+    text-decoration:underline
+ } */
+
+/* table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+table{
+    width:90%;
+} */
+
+/* 
+table th,td{
+    border: 10px black;
+
+} */
+
+/* 
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    width:100%;
+}
+th{
+    text-align:left;
+} */
+
+/* 
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    width:100%;
+}
+why olspan is not used in css?? */
+
+/* table{
+    width:100%;
+}
+table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+}
+th,td{
+    padding:5px;
+    text-align:left;
+} */
+
+/* table,td,th{
+    border:1px solid black;
+    border-collapse:collapse;
+}
+th,td{
+    padding:15px;
+}
+table{
+    width:100%;
+} */
+
+/* table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th,td{
+    padding-top:10px;
+    padding-bottom:20px;
+    padding-left:30px;
+    padding-right:40px;
+}
+table{
+
+    width:100%;
+} */
+
+/* table,th,td{
+    border: 1px solid blue;
+    border-spacing: 30px;
+}
+table{
+    width:100%;
+} */
+
+/* table,
+th,
+td{
+    border:2px solid blueviolet;
+    border-collapse:collapse;
+}
+
+table{
+    width:100%;
+} */
+
+/* table,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    padding:6px;
+    text-align:center;
+}
+
+table{
+    width:90%;
+} */
+
+/* table,th,td{
+    border: 1px solid burlywood;
+    border-collapse: collapse;
+}
+
+table{
+    width:100%;
+} */
+
+/* table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+}
+table{
+    width: 100%;
+} */
+
+
+/* table{
+    border:1px solid black;
+    border-collapse:collapse;
+    width:100%;
+}
+
+th{
+    text-align:left;
+    padding:8px;
+}
+
+tr:nth-child(even){
+    background-color:#D6EEEE;
+}
+ */
+
+
+           /* doubt */
+/* 
+ table,th,td{
+    border: 1px solid black;
+    border-collapse:collapse;
+ }
+ td:nth-child(even) {
+    background-color:#D6EEEE;
+ }
+ th:nth-child(even) {
+    background-color:#D6EEEE;
+ } */
+
+/* 
+ table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+tr:nth-child(even){
+    background-color: rgba(150,212,212,0.4);
+}
+th:nth-child(even){
+    background-color: rgba(150,212,212,0.4);
+} */
+
+/* table{
+    border-collapse:collapse;
+    width: 100%;
+  }
+
+  tr{
+    border-bottom:1px solid#ddd;
+  } */
+
+                        /* doubt */
+
+                        
+  /* table{
+    border-collapse:collapse;
+    width:100%;
+  }
+
+  th,td{
+    text-align:left;
+    padding:10px;
+    border-bottom:1px solid #ddd;
+  }
+
+  tr:hover {background-color:#D6EEEE;}
+   */
+
+
+    /* table,th,td {
+    border:2px solid black;
+    border-collapse: collapse;
+   } */
+
+   /* table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+   } */
+
+
+   /* table,th,td{
+    border:2px solid black;
+    border-collapse:collapse;
+   } */
+
+
+/* 
+   ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color:#333333;
+   }
+
+   li{
+    float:left
+   }
+
+   li a{
+    display:block;
+    color:white;
+    text-align: center;
+    padding:16px;
+    text-decoration:none;
+   }
+
+   li a:hover{
+    background-color: #111111;
+   } */
+
+
+   /* dd{
+
+    display:block;
+    margin-left:50px;s
+   }
+    */
+
+/* 
+    ul.a{
+        list-style-type:none;
+    }
+
+    ul.b{
+        list-style-type:circle;
+    }
+
+
+
+    ol.c{
+        list-style-type:upper-roman;
+    }
+
+    ol.d{
+        list-style-type:lower-alpha;
+    }     */
+
+
+
+    /* ul{
+        list-style-image:url('images/d.png');
+    } */
+
+
+    /* table,th,td{
+        border:1px solid black;
+        border-collapse:collapse;  
+    }
+
+
+
+    th,td{
+        background-color:#96d4d4;
+    } */
+
+
+    /* table,th,td{
+        border: 1px solid black;
+        border-radius:10px;
+    }  */
+
+    /* th,td{
+        border-style:dotted;
+        border-color:#96d4d4;
+    } */
+
+    /* table,th,td{
+        border: 1px solid black;
+        border-collapse:collapse;
+    } */
+
+    /* table,th,td{
+        border: 1px solid black;
+    }
+    table{
+        border-spacing:70px;
+    } */
+
+    /* table,th,td{
+        border:1px solid black;
+        border-collapse: collapse;
+    }
+
+    th,td{
+        padding:5px;
+        text-align:left;
+    } */
+
+/* 
+    table,th,td{
+
+        border: 1px solid black;
+        border-collapse:collapse;
+
+    } */
+
+    /* .city{
+        background-color:tomato;
+        color:white;
+        border:2px solid black;
+        margin:20px;
+        padding:20px;
+    } */
+
+
+    /* .note{
+        color:blue;
+    } */
+
+    /* .city{
+        background-color:tomato;
+        color:white;
+        padding:10px;  
+    }
+
+    .main{
+        text-align:center;
+
+    } */
+
+    /* .city{
+        background-color:tomato;
+        color:white;
+        padding:10px;
+    } */
+
+
+    
+    /* #myHeader{
+        background-color:blue;
+        color:black;
+        padding:30px;
+        text-align:center;
+    } */
+
+
+    
+
+    /* Style the element with the id "myHeader"
+
+        #myHeader{
+        background-color:lightblue;
+        color:black;
+        padding:40px;
+        text-align:center;
+    }
+    /* Style all elements with the class name "city" */
+/* 
+    .city{
+        background-color:tomato;
+        color:white;
+        padding:30px;
+    } */ 
+
+
+/* 
+
+    body h1{
+        background-color:aqua;
+    }
+    p{
+        color:white;
+        text-align:center;
+    }
+    h1{
+        color:white;
+        text-align:center;
+    } */
+
+
+/* 
+    input {
+        
+        background-color:red;
+        background: none;
+        border-radius: 22px;
+        color: #000000ff;
+        font-family:inherit;
+        font-size:inherit;
+        height: 100%;
+        outline: 0;
+        padding-inline-end:calc(var(50));
+        padding-inline-start: 52px;
+        position: relative;
+        height: 500%;
+        padding-inline-end: calc(var(50px));
+        padding-inline-start: 52px;
+        position: relative;
+        width: 100%;
+
+    }
+
+    input [type="search" i]
+
+    {
+
+        appearance: auto;
+        box-sizing: border-box;
+        padding: 1px 2px;
+
+    }
+
+    input{
+        writing-mode: horizontal-tb !important;
+        font-style: ;
+        font-variant-ligatures: ;
+        font-variant-caps: ;
+        font-variant-caps: ;
+        font-variant-numeric: ;
+        font-variant-east-asian: ;
+        font-weight: ;
+        font-stretch: ;
+        text-rendering: auto;
+        letter-spacing: normal;
+        word-spacing: normal;
+        line-height: normal;
+        text-transform: none;
+        text-indent: 0px;
+        text-shadow: none;
+        display: inline-block;
+        text-align: start;
+        -webkit-rtl-ordering:logical;
+        cursor: text;
+        margin: 0cm;
+    } */
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+   
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
